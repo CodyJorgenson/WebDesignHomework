@@ -1,1 +1,1 @@
-this is my frog list for Assignment 6, practicing html.
+this is my frog list for Assignment 6, practicing html.  
