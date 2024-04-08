@@ -7,11 +7,11 @@ body{
     /* Draw a solid border make it maroon */
     border-style: solid;
     border-width: 10px;
-    border-color: maroon;
+    border-color: rgb(100, 0, 113);
     /*Add space between the border and its inside elements. */
     padding: 10px;
     /* Color the background dark grey. */
-    background : lightgrey;
+    background : rgb(149, 214, 255);
     width: 75%;
     margin: auto;
 }
@@ -33,7 +33,7 @@ div.align{
     position: relative;
     left: 20px;
     top:5px;
-    color: darkslategray;
+    color: rgb(42, 40, 40);
     opacity: .75;
     font-size: 60px;
 }
