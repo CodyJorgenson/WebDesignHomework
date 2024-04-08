@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-container {
+    
+    border-style: solid;
+    border-width: 6px;
+    border-color: rgb(0, 15, 129);
+    
+    padding: 12px;
+
+    background : rgb(133, 196, 255);
+    width: 75%;
+    margin: auto;
+}
+
+div.align{
+    text-align: center;
+}
+
+.secondary-container{
+    
+    margin: auto;
+    width:50%;
+    padding: 50px;
+    border-bottom: 1px black solid;
+    border-spacing: inherit;
+}
+
+#mainheader{
+    position: relative;
+    left: 45px;
+    top:5px;
+    color: rgb(156, 0, 0);
+    opacity: .75;
+    font-size: 54px;
+}
