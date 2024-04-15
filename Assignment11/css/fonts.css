@@ -1,5 +1,4 @@
-
-.jacquard-24-regular {
+@font-face {
     font-family: "Jacquard 24", system-ui;
     src: url('../fonts/Jacquard_24/Jacquard24-Regular.ttf') format('truetype');
     font-weight: 400;
