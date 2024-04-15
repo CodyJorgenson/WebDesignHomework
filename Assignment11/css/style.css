@@ -2,11 +2,11 @@ div{
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
-    margin: 10px;
+    margin: 12px;
 }
 
 .title{
-    font-family: jacquard-24-regular;
+    font-family: 'jacquard-24-regular';
     font-size: 80px;
     text-shadow: -6px 2px 0 #000;
     color:rgb(198, 205, 0);
@@ -16,6 +16,6 @@ div{
 }
 
 #kangs {
-    font-family: jacquard-24-regular;
+    font-family: 'jacquard-24-regular';
     font-weight: 600;
 }
