@@ -7,3 +7,16 @@ body{
     text-align: center;
     padding-left: 1;
 }
+
+
+head{
+    position: fixed;
+    background-color: rgb(0, 191, 216);
+    font-family: 'times';
+    font-style: medium;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin: 0;
+    height: 2em;
+    width: 100%;
+}
