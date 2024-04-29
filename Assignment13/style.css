@@ -118,8 +118,7 @@ header {
 
 }
 
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     .mainimage{
         content:url("./images/IMG_6865\ 2\ copy.JPG");
     }
@@ -130,8 +129,7 @@ header {
     content:url("./images/IMG_9087\ copy.jpg");
 }
 
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     .secondimage{
         float:right;
         content:url("./images/IMG_9087\ copy.jpg");
@@ -143,8 +141,7 @@ header {
     content:url("./images/midscalemap\ copy.jpg");
 }
 
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     .thirdimage{
         margin: auto;
         content:url("./images/midscalemap\ copy.jpg");
@@ -156,8 +153,7 @@ header {
     content:url("./images/Screen\ Shot\ 2019-03-12\ at\ 6.34.17\ PM.png");
 }
 
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     .fourthimage{
         margin: auto;
         content:url("./images/Screen\ Shot\ 2019-03-12\ at\ 6.34.17\ PM.png");
@@ -169,8 +165,8 @@ header {
     content:url("./images/Screen\ Shot\ 2020-03-19\ at\ 9.56.42\ AM\ copy.png");
 }
 
-/* For width 600px and larger: */
-@media only screen and (min-width: 600px) {
+
+@media only screen and (max-width: 600px) {
     .fifthimage{
         margin: auto;
         content:url("./images/Screen\ Shot\ 2020-03-19\ at\ 9.56.42\ AM\ copy.png");
