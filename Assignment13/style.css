@@ -17,7 +17,7 @@ div{
 }
 h1, h3, h5{
     text-align: center;
-    font-family: FiraSans, sans-serif;
+    font-family: sans-serif;
     
 }
 .opening-paragraph{
@@ -36,23 +36,22 @@ h1, h3, h5{
 
 table{
     border: 1px dashed black;
-    font-family:  FiraSans, sans-serif;
+    font-family: sans-serif;
     font-weight: 700;
     padding: 10px;
 }
 
 
 p{
-    font-family:  Merriweather, sans-serif;
+    font-family: sans-serif;
 }
 
-/* Set your header design: */
 header {
     position: fixed;
     top: 0px;
     left: 0px;
     background-color: #26272b;
-    font-family: Merriweather;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-transform: uppercase;
     margin-top: 0;
     height: 4em;
@@ -60,7 +59,6 @@ header {
     text-align: left;
 }
 
-/* Set the layout of the menu: */
 .menu-item {
     display: inline-block;
     margin: 1em .2em;
@@ -70,18 +68,16 @@ header {
     padding: 0.5em 1em;
 }
 
-/* Style the links: */
 .menu-item a {
     color: #fff;
     text-decoration: none;
 }
 
 .menu-item:hover {
-    background-color: gray;
+    background-color: rgb(46, 46, 46);
    
 }
 
-/* Add a dropdown feature: */
 .dropdown {
     display: inline-block;
 }
@@ -181,17 +177,17 @@ header {
         content:url("../images/road2.jpg");
     }
 }
-.col-1 {width: 8.33%;}
-.col-2 {width: 16.66%;}
-.col-3 {width: 25%;}
-.col-4 {width: 33.33%;}
-.col-5 {width: 41.66%;}
+.col-1 {width: 8%;}
+.col-2 {width: 16%;}
+.col-3 {width: 30%;}
+.col-4 {width: 33%;}
+.col-5 {width: 41%;}
 .col-6 {width: 50%;}
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
+.col-7 {width: 55%;}
+.col-8 {width: 65%;}
 .col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 91.66%;}
+.col-10 {width: 80%;}
+.col-11 {width: 90%;}
 .col-12 {width: 100%;}
 
 [class*="col-"] {
