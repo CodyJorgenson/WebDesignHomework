@@ -6,12 +6,12 @@
     padding-bottom: 300px;
 }
 body{
-    background-color: beige;
+    background-color: rgb(169, 69, 69);
 }
 div{
     text-align: left;
     line-height: 1.45em;
-    font-family: Merriweather, sans-serif;
+    font-family: sans-serif;
     margin-bottom: 10px;
     padding: 5px;
 }
@@ -69,12 +69,12 @@ header {
 }
 
 .menu-item a {
-    color: #fff;
+    color: rgb(187, 187, 187);
     text-decoration: none;
 }
 
 .menu-item:hover {
-    background-color: rgb(46, 46, 46);
+    background-color: rgb(74, 0, 0);
    
 }
 
